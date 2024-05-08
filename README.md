@@ -3,11 +3,11 @@ npm create vite@latest
 Need to install the following packages:
 create-vite@5.2.3
 Ok to proceed? (y) y
-✔ Project name: … tailwind-solid-test
+✔ Project name: ... tailwind-solid-test
 ✔ Select a framework: › Solid
 ✔ Select a variant: › JavaScript
 
-Scaffolding project in /Users/tdiprima/Documents/trabajo/tailwind-solid-test...
+Scaffolding project in tailwind-solid-test...
 
 Done. Now run:
 
