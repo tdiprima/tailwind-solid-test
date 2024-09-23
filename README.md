@@ -18,7 +18,7 @@ Done. Now run:
 
 http://localhost:5173/
 
-https://tailwindcss.com/docs/installation/using-postcss
+[Get started with Tailwind CSS](https://tailwindcss.com/docs/installation/using-postcss)
 
 ```sh
 npm install -D tailwindcss postcss autoprefixer
